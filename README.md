@@ -2,7 +2,7 @@
 *Last updated on May, 2021. Topics also generally include combinatorial bandits, semi-bandits, Thompson Sampling, submodularity, sequential decision making, surrogate losses, approximate solutions, etc. 🐣 denotes paper importance from my own perspective.*
 
 ## ICML
-🐣🐣:performing_arts:**Combinatorial Multi-Armed Bandit: General Framework and Applications** [[link](http://proceedings.mlr.press/v28/chen13a.html)] [[slides](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/icml13_cmab_talk_revised.pdf)]\
+🐣🐣:smiling_imp: **Combinatorial Multi-Armed Bandit: General Framework and Applications** [[link](http://proceedings.mlr.press/v28/chen13a.html)] [[slides](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/icml13_cmab_talk_revised.pdf)]\
 [Wei Chen](https://www.microsoft.com/en-us/research/people/weic/talks-and-tutorials/), Yajun Wang, Yang Yuan\
 *ICML, 2013*
 <br>
@@ -32,7 +32,7 @@ Shuai Li, Baoxiang Wang, Shengyu Zhang, [Wei Chen](https://www.microsoft.com/en-
 *ICML, 2016*
 <br>
 
-🐣🐣**Thompson Sampling for Combinatorial Semi-Bandits** [[link](http://proceedings.mlr.press/v80/wang18a.html)] [[journal version](https://arxiv.org/pdf/1803.04623.pdf)]\
+🐣🐣:smiling_imp: **Thompson Sampling for Combinatorial Semi-Bandits** [[link](http://proceedings.mlr.press/v80/wang18a.html)] [[journal version](https://arxiv.org/pdf/1803.04623.pdf)]\
 Siwei Wang, [Wei Chen](https://www.microsoft.com/en-us/research/people/weic/talks-and-tutorials/)\
 *ICML, 2018*
 <br>
@@ -180,7 +180,7 @@ Julian Zimmert, Tor Lattimore\
 *NeurIPS, 2019*
 <br>
 
-🐣**Statistical Efficiency of Thompson Sampling for Combinatorial Semi-Bandits** [[link](https://papers.nips.cc/paper/2020/hash/3a4496776767aaa99f9804d0905fe584-Abstract.html)]\
+🐣:smiling_imp: **Statistical Efficiency of Thompson Sampling for Combinatorial Semi-Bandits** [[link](https://papers.nips.cc/paper/2020/hash/3a4496776767aaa99f9804d0905fe584-Abstract.html)]\
 Pierre Perrault, Etienne Boursier, Michal Valko, Vianney Perchet\
 *NeurIPS, 2020*
 <br>
@@ -211,7 +211,7 @@ Karthik Abinav Sankararaman, Aleksandrs Slivkins\
 *AISTATS, 2019*
 <br>
 
-🐣🐣**Analysis of Thompson Sampling for Combinatorial Multi-armed Bandit with Probabilistically Triggered Arms** [[link](http://proceedings.mlr.press/v89/huyuk19a.html)]\
+🐣🐣:smiling_imp: **Analysis of Thompson Sampling for Combinatorial Multi-armed Bandit with Probabilistically Triggered Arms** [[link](http://proceedings.mlr.press/v89/huyuk19a.html)]\
 Alihan Huyuk, Cem Tekin\
 *AISTATS, 2019*
 <br>
@@ -252,7 +252,7 @@ Max Simchowitz, Kevin Jamieson, Benjamin Recht\
 *COLT, 2016*
 <br>
 
-🐣🐣**Tight Bounds for Bandit Combinatorial Optimization** [[link](http://proceedings.mlr.press/v65/cohen17a.html)]\
+🐣🐣:smiling_imp: **Tight Bounds for Bandit Combinatorial Optimization** [[link](http://proceedings.mlr.press/v65/cohen17a.html)]\
 Alon Cohen, Tamir Hazan, Tomer Koren\
 *COLT, 2017*
 <br>
