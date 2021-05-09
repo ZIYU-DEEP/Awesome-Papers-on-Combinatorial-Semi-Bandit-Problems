@@ -2,7 +2,7 @@
 *Last updated on May, 2021. Topics also generally include combinatorial bandits, semi-bandits, Thompson Sampling, submodularity, sequential decision making, surrogate losses, approximate solutions, etc. 🐣 denotes paper importance from my own perspective.*
 
 ## ICML
-🐣🐣**Combinatorial Multi-Armed Bandit: General Framework and Applications** [[link](http://proceedings.mlr.press/v28/chen13a.html)] [[slides](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/icml13_cmab_talk_revised.pdf)]\
+🐣🐣:performing_arts:**Combinatorial Multi-Armed Bandit: General Framework and Applications** [[link](http://proceedings.mlr.press/v28/chen13a.html)] [[slides](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/icml13_cmab_talk_revised.pdf)]\
 [Wei Chen](https://www.microsoft.com/en-us/research/people/weic/talks-and-tutorials/), Yajun Wang, Yang Yuan\
 *ICML, 2013*
 <br>
