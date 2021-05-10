@@ -1,5 +1,5 @@
 # Paper List of Combinatorial Bandit Problem
-*Last updated on May, 2021. Topics also generally include combinatorial bandits, semi-bandits, Thompson Sampling, submodularity, sequential decision making, surrogate losses, approximate solutions, etc. 🐣 denotes paper importance from my own perspective.*
+*Last updated on May, 2021. Topics also generally include combinatorial bandits, semi-bandits, Thompson Sampling, submodularity, sequential decision making, surrogate losses, approximate solutions, etc. 🐣/:smiling_imp: denote paper importance from my own perspective.*
 
 ## ICML
 🐣🐣:smiling_imp: **Combinatorial Multi-Armed Bandit: General Framework and Applications** [[link](http://proceedings.mlr.press/v28/chen13a.html)] [[slides](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/icml13_cmab_talk_revised.pdf)]\
@@ -47,7 +47,7 @@ Julian Zimmert, Haipeng Luo, Chen-Yu Wei\
 *ICML, 2019*
 <br>
 
-🐣🐣:smiling_imp: **Graphical Models Meet Bandits: A Variational Thompson Sampling Approach** [[link](http://proceedings.mlr.press/v119/yu20b.html)] [[slides](https://papertalk.org/papertalks/5503)]\
+🐣🐣:smiling_imp: **Graphical Models Meet Bandits: A Variational Thompson Sampling Approach** [[link](http://proceedings.mlr.press/v119/yu20b.html)] [[video](https://papertalk.org/papertalks/5503)]\
 Tong Yu, Branislav Kveton, Zheng Wen, Ruiyi Zhang, Ole J. Mengshoel\
 *ICML, 2020*
 <br>
@@ -180,7 +180,7 @@ Julian Zimmert, Tor Lattimore\
 *NeurIPS, 2019*
 <br>
 
-🐣:smiling_imp: **Statistical Efficiency of Thompson Sampling for Combinatorial Semi-Bandits** [[link](https://papers.nips.cc/paper/2020/hash/3a4496776767aaa99f9804d0905fe584-Abstract.html)]\
+🐣:smiling_imp: **Statistical Efficiency of Thompson Sampling for Combinatorial Semi-Bandits** [[link](https://papers.nips.cc/paper/2020/hash/3a4496776767aaa99f9804d0905fe584-Abstract.html)][[video](https://crossminds.ai/video/statistical-efficiency-of-thompson-sampling-for-combinatorial-semi-bandits-606fedbaf43a7f2f827c1345/)]\
 Pierre Perrault, Etienne Boursier, Michal Valko, Vianney Perchet\
 *NeurIPS, 2020*
 <br>
