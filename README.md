@@ -47,7 +47,7 @@ Julian Zimmert, Haipeng Luo, Chen-Yu Wei\
 *ICML, 2019*
 <br>
 
-🐣🐣:smiling_imp: **Graphical Models Meet Bandits: A Variational Thompson Sampling Approach** [[link](http://proceedings.mlr.press/v119/yu20b.html)]\
+🐣🐣:smiling_imp: **Graphical Models Meet Bandits: A Variational Thompson Sampling Approach** [[link](http://proceedings.mlr.press/v119/yu20b.html)] [[slides](https://papertalk.org/papertalks/5503)]\
 Tong Yu, Branislav Kveton, Zheng Wen, Ruiyi Zhang, Ole J. Mengshoel\
 *ICML, 2020*
 <br>
