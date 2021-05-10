@@ -47,7 +47,7 @@ Julian Zimmert, Haipeng Luo, Chen-Yu Wei\
 *ICML, 2019*
 <br>
 
-🐣**Graphical Models Meet Bandits: A Variational Thompson Sampling Approach** [[link](http://proceedings.mlr.press/v119/yu20b.html)]\
+🐣🐣:smiling_imp: **Graphical Models Meet Bandits: A Variational Thompson Sampling Approach** [[link](http://proceedings.mlr.press/v119/yu20b.html)]\
 Tong Yu, Branislav Kveton, Zheng Wen, Ruiyi Zhang, Ole J. Mengshoel\
 *ICML, 2020*
 <br>
@@ -59,7 +59,7 @@ Xiaoyu Chen, Kai Zheng, Zixin Zhou, Yunchang Yang, [Wei Chen](https://www.micros
 
 **Combinatorial Pure Exploration for Dueling Bandit** [[link]()]\
 [Wei Chen](https://www.microsoft.com/en-us/research/people/weic/talks-and-tutorials/), Yihan Du, Longbo Huang, Haoyu Zhao\
-*ICML, 2019*
+*ICML, 2020*
 <br>
 
 
